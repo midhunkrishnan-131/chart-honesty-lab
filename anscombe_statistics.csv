@@ -1,0 +1,5 @@
+group,x_mean,y_mean,x_variance_sample,y_variance_sample,pearson_correlation
+I,9.0,7.501,11.0,4.127,0.816
+II,9.0,7.501,11.0,4.128,0.816
+III,9.0,7.5,11.0,4.123,0.816
+IV,9.0,7.501,11.0,4.123,0.817
